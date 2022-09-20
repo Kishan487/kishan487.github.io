@@ -1,0 +1,113 @@
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: black;
+  margin-left: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#buttons {
+ margin-left: auto;
+ margin-right: auto;
+ Background-color: rgb(255,77,77);
+ 
+}
+
+#welcomesign {
+
+Margin-top: 50px;
+ 
+}
+
+#kpph {
+Margin-top: -130px;
+text-align: center;
+}
+
+#homep{
+text-align: center;
+Margin-right: auto;
+Margin-left: auto;
+Margin-bottom: 20px;
+background: rgba(255, 77, 77, .2);
+max-width: 800px;
+min-width: 100px;
+}
+
+#abth{
+Text-align: center;
+}
+
+#abtmep {
+
+ Margin-top: 30px;
+ Text-align: center;
+ Margin-left: auto;
+ Margin-right: auto;
+background: rgba(255, 77, 77, .2);
+max-width: 800px;
+min-width: 100px;
+
+}
+
+#abtdiv{
+
+}
+
+
+#aboutbody {
+background-image: url(newbdownt.png);
+}
+
+
+#kishan {
+ Float: right;
+ Margin-right: 300px;
+ Margin-left: 20px;
+
+}
+
+#carpic {
+ Float: left;
+ Margin-right: 20px;
+ Margin-left: 80px;
+
+}
+
+#vball {
+ Float: right;
+ Margin-right: 410px;
+ Margin-left: 150px;
+align = "bottom"
+}
+
+
+#targetpic{
+ Float: left;
+ Margin-right: 100px;
+ Margin-left: 150px;
+
+}
+
+#bball{
+ Float: left;
+ Margin-top: 200px;
+ Margin-right: 300px;
+ Margin-left: 300px;
+
+}
+
+
+
+
+
+
+
+
