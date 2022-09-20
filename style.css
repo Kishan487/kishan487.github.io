@@ -58,7 +58,10 @@ min-width: 100px;
 }
 
 #abtdiv{
-
+Margin-left: auto;
+ Margin-right: auto;
+max-width: 800px;
+min-width: 100px;
 }
 
 
@@ -69,21 +72,31 @@ background-image: url(newbdownt.png);
 
 #kishan {
  Float: right;
- Margin-right: 300px;
+ Margin-right: 50px;
  Margin-left: 20px;
 
 }
 
 #carpic {
  Float: left;
- Margin-right: 20px;
- Margin-left: 80px;
+ Margin-right: 2px;
+ Margin-left: 8px;
 
 }
 
+#abtpics {
+ align: center;
+ Max-width = 800px
+ Min-width = 100px;
+ Display: flex;
+ Justify-content: center;
+
+}
+
+
 #vball {
  Float: right;
- Margin-right: 410px;
+ Margin-right: 350px;
  Margin-left: 150px;
 align = "bottom"
 }
@@ -91,19 +104,17 @@ align = "bottom"
 
 #targetpic{
  Float: left;
- Margin-right: 100px;
- Margin-left: 150px;
+ Margin-right: 10px;
+ Margin-left: 400px;
 
 }
 
 #bball{
  Float: left;
- Margin-top: 200px;
- Margin-right: 300px;
- Margin-left: 300px;
+ Margin-right: 10px;
+ Margin-left: 35px;
 
 }
-
 
 
 
