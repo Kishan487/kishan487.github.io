@@ -116,6 +116,32 @@ align = "bottom"
 
 }
 
+#jsh {
+ Text-align: center; 
+}
+
+#jsp{
+ Text-align: center;
+}
+
+#racingbitmoji{
+ Text-align: center;
+ Max-width = 800px
+ Min-width = 100px;
+ Float: right;
+ Margin-right: 100px;
+}
+
+#dancingbitmoji{
+
+ Float: left;
+ Text-align: center;
+ Margin-left: 100px;
+ Max-width = 800px
+ Min-width = 100px;
+ 
+}
+
 
 
 
